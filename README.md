@@ -9,7 +9,7 @@ POST
 ```
 
 **- URL:**
-/context-root/api/crm/cliente/<nomeCliente>/<emailCliente>
+/context-root/api/crm/cliente/nomeCliente/emailCliente
 
 **- URL Params (Required):**
 ```sh
